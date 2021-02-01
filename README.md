@@ -1,2 +1,1 @@
-# Practice
-Project for learning
+# https://bambl4.github.io/Practice/
